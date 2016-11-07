@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chronicles</string>
+    <string name="pickatopic">Pick a Topic!</string>
+    <string name="motivation">Motivation</string>
+    <string name="news">News</string>
+</resources>
